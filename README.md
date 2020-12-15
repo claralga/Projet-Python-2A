@@ -1,7 +1,7 @@
 # Projet-Python-2A- Julia Nicolas, Mathilde Kubiak, Clara Le Gallic-Ach 
 #### Chargée de TD : Anne Muller 
 
-
+Ci-dessus, veuillez trouver dans le fichier `Bases de données` toutes les bases utilisées lors de notre travail. Celles-ci sont détaillées dans notre notebook. 
 
 ## Introduction
 A l’heure de la télévision et de la digitalisation de la consommation, quelles ont été les mutations de l'économie du cinéma et de son public ?
