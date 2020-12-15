@@ -8,10 +8,14 @@ Nous commencerons par faire une étude de la composition et de l'évolution du b
  
 ## Définitions 
 **Box-office** : valeur monétaire fondée sur le nombre de ticket écoulés à la sortie d’un film
+
 **Metascore** : moyenne pondérée des notes attribuées à un film par des critiques internationaux
+
 **Score imdb** : moyenne des notes attribuées par les visiteurs du site IMDb, le nombre de notes total correspond à la variable nombre de votes dans la base
+
 **Elasticité prix** : indicateur de la réaction de la demande à la suite d’une variation du prix de 1%
-Bien ordinaire : bien dont la consommation diminue lorsque son prix augmente
+
+**Bien ordinaire** : bien dont la consommation diminue lorsque son prix augmente
  
 ## Outils de travail 
 Nos bases de données sont nombreuses mais se divisent en deux catégories : 
@@ -31,7 +35,8 @@ Nous avons tout d’abord remarqué que le prix du billet augmentait lui aussi c
 En effet, les français semblent toujours préférer consommer certains genres de films dans une salle de cinéma. Ainsi la fréquentation en salle annuelle sera extrêmement sensible à quelques sorties. En France, les pics de fréquentation des dix à vingt dernières années sont généralement associés à de grosses productions américaines de fantastique/science-fiction/animation, généralement des sagas (Harry Potter, Star Wars, Toy Story, L’age de glace, …) ou bien des comédies françaises qui décrochent toujours des premières places au box-office (Intouchables, Les Tuche, …). 
 Finalement, nous observons que le cinéma garde une place centrale dans les habitudes culturelles des français. Bien que l’introduction de télévision dans les années 1960 ait considérablement réduit le temps accordé par les français aux ‘sorties ciné’, la privatisation de celle-ci dans les années 1980 puis l’arrivée du streaming dans les années 2000 n’ont pas enlevé l’envie du public de consommer les films les plus populaires et les plus spectaculaires sur un écran géant.   
  
-Difficultés rencontrées et limites
+## Difficultés rencontrées et limites
+
 **Prise en compte de l’inflation** : Pour les Etats-Unis comme pour la France il aurait été plus juste de normaliser le box-office avec l’inflation. Nous avons essayé de le faire “à la main” en utilisant les informations trouvées sur internet ainsi qu’en utilisant le module cpi de python mais nous n’arrivions pas à vérifier la véracité de ces résultats. Nous avons donc préféré traiter les données brutes.
  
 **Streaming** : Nous ne disposions que de données concernant le streaming légal, or le streaming illégal existe également. C’est pourquoi nous n’avons pas discuté du streaming en volume mais plutôt de l’usage du streaming en fonction de l'âge et de l’évolution de l’orientation du streaming. Implicitement, nous avons supposé que le streaming illégal représentait une part constante du streaming global.
