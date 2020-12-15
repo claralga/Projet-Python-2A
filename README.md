@@ -9,15 +9,11 @@ Notre étude s'appuiera sur l'analyse de milliers de films sortis entre 1950 et 
 Nous commencerons par faire une étude de la composition et de l'évolution du box office aux Etats-unis. Ensuite nous comparerons cette évolution avec l'évolution française et nous approfondirons en analysant les relations entre box office, fréquentation des cinémas, prix des billets, âges et facteurs socio-économiques. Finalement, nous chercherons à mettre en lumière ce qui fait du cinéma une industrie qui sait, malgré ses mutations, toujours être au cœur des habitudes culturelles des français. 
  
 ## Définitions 
-**Box-office** : valeur monétaire fondée sur le nombre de ticket écoulés à la sortie d’un film
-
-**Metascore** : moyenne pondérée des notes attribuées à un film par des critiques internationaux
-
-**Score imdb** : moyenne des notes attribuées par les visiteurs du site IMDb, le nombre de notes total correspond à la variable nombre de votes dans la base
-
-**Elasticité prix** : indicateur de la réaction de la demande à la suite d’une variation du prix de 1%
-
-**Bien ordinaire** : bien dont la consommation diminue lorsque son prix augmente
+- **Box-office** : valeur monétaire fondée sur le nombre de ticket écoulés à la sortie d’un film
+- **Metascore** : moyenne pondérée des notes attribuées à un film par des critiques internationaux
+- **Score imdb** : moyenne des notes attribuées par les visiteurs du site IMDb, le nombre de notes total correspond à la variable nombre de votes dans la base
+- **Elasticité prix** : indicateur de la réaction de la demande à la suite d’une variation du prix de 1%
+- **Bien ordinaire** : bien dont la consommation diminue lorsque son prix augmente
  
 ## Outils de travail 
 Nos bases de données sont nombreuses mais se divisent en deux catégories : 
