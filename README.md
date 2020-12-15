@@ -2,6 +2,7 @@
 #### Chargée de TD : Anne Muller 
 
 Ci-dessus, veuillez trouver dans le fichier `Bases de données` toutes les bases utilisées lors de notre travail. Celles-ci sont détaillées dans notre notebook. 
+L'une d'elles provient du webscraping du site IMDb, le détail du code est dans notre notebook mais nous vous la fournissons après téléchargement si vous voulez éviter de faire tourner cette cellule. 
 
 ## Introduction
 A l’heure de la télévision et de la digitalisation de la consommation, quelles ont été les mutations de l'économie du cinéma et de son public ?
