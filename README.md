@@ -1,6 +1,8 @@
 # Projet-Python-2A- Julia Nicolas, Mathilde Kubiak, Clara Le Gallic-Ach 
 #### Chargée de TD : Anne Muller 
 
+
+
 ## Introduction
 A l’heure de la télévision et de la digitalisation de la consommation, quelles ont été les mutations de l'économie du cinéma et de son public ?
 Notre étude s'appuiera sur l'analyse de milliers de films sortis entre 1950 et 2020 ainsi que sur des données socio-économiques françaises relatives à l’industrie cinématographique. 
