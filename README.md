@@ -21,7 +21,9 @@ Nous commencerons par faire une étude de la composition et de l'évolution du b
  
 ## Outils de travail 
 Nos bases de données sont nombreuses mais se divisent en deux catégories : 
+
 Une base scrapée depuis le site d’IMDb regroupant, après nettoyage, 6658 films de 1950 à 2020 et leurs caractéristiques (Titre, année, durée, genre, réalisateur, score du public sur imbd, metascore, nombre de votes constituant le score du public, chiffre d’affaire généré par la diffusion du film aux USA).
+
 Des bases récupérées et copiées depuis le site du CNC. Pour ces bases, nous avons feuilleté toutes les bases du CNC concernant les films, leurs public, le streaming, … Quand une information nous intéressait, nous la copions dans un nouveau fichier .csv. 
  
 ## Lors de notre travail nous avons utilisé des méthodes de :
