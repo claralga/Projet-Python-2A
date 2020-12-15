@@ -19,11 +19,11 @@ Une base scrapée depuis le site d’IMDb regroupant, après nettoyage, 6658 fil
 Des bases récupérées et copiées depuis le site du CNC. Pour ces bases, nous avons feuilleté toutes les bases du CNC concernant les films, leurs public, le streaming, … Quand une information nous intéressait, nous la copions dans un nouveau fichier .csv. 
  
 ## Lors de notre travail nous avons utilisé des méthodes de :
-*Webscraping
-*Manipulation des bases de données 
-*Statistiques descriptives et visualisation
-*One hot encoding des données textuelles
-*Régression linéaire
+* Webscraping
+* Manipulation des bases de données 
+* Statistiques descriptives et visualisation
+* One hot encoding des données textuelles
+* Régression linéaire
  
 ## Analyses et conclusions 
 Après avoir fait un état des lieux de la base IMDb et constaté une augmentation du chiffre d'affaires annuel moyen des films aux Etats-Unis, nous avons notamment trouvé, en France, une augmentation du chiffre d'affaires des cinémas mais pourtant une baisse de leur fréquentation de 1950 aux années 1990.. 
